@@ -1,5 +1,6 @@
 # newbmicalculator
-
+![](Screenshots/s1.png)
+![](Screenshots/s2.png)
 A new Flutter application.
 
 ## Getting Started
